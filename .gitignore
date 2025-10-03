@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+volumes/
+
+# OS
+.DS_Store
+Thumbs.db
+
+data/ratings.csv
+data/tags.csv
+data/movies.csv

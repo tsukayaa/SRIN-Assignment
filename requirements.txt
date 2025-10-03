@@ -1,0 +1,23 @@
+# Vector DB client
+pymilvus==2.5.5
+
+# Embeddings
+sentence-transformers==2.7.0
+
+# ML
+lightgbm==4.6.0
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy==1.26.4
+tqdm==4.67.1
+
+# API
+fastapi==0.118.0
+uvicorn==0.30.6
+
+# TensorFlow + keras compat
+tensorflow==2.16.2
+tf-keras==2.16.0
+
+# Telegram bot
+python-telegram-bot==22.5
